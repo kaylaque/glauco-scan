@@ -10,3 +10,6 @@ The CDR calculation editted from [Nupur Bhaisare's work](https://github.com/Nupu
 
 # Prediction of Glaucoma
 From the CDR result, based on dataset CDR in [kaggle](https://www.kaggle.com/sshikamaru/glaucoma-detection), we built algorithm to classify glaucoma using SVM 
+
+The model weights are [here](https://drive.google.com/drive/folders/1CAQJprVZESPXOTf1cdnPnHq_YoocUokz?usp=sharing).
+The final webapp should be added some preprocessing of bounding box from segmentation of disc result, but not yet finished.
